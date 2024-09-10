@@ -34,6 +34,7 @@ The firmware for this feeder is still under development, and will be posted here
 2. Fusion 360 CAD drawing
 3. STL files for 3d printing. No supports needed, but adding some strategic supports in a couple of areas might help for the Main Body. 
 4. Schematics
+5. The PY32 datasheet in English can be found here https://download.py32.org/Datasheet/en/PY32F002A%C2%A0datasheet%C2%A0Rev.0.2_EN.pdf
    
 
 # Firmware: WIP
