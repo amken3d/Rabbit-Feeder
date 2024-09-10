@@ -23,15 +23,17 @@ The firmware for this feeder is still under development, and will be posted here
 1. N20 Motor - Look for GW1812-N20 DC 12V  on Aliexpress. This is the most expensive part of this feeder. You need a horizontal shaft motor.
 2. GT2 160 mm belt - Source on Aliexpress or Amazon : GT2 Timing Belt Idler Pulley 20 Teeth 5mm Bore 6mm Width
 3. 3x8x4 mm 2RS Bearings X 6 : Easily sourced on Amazon and Aliexpress
-4.  T Nuts X 2
-5.  M3 bolts and nuts
-6.  3D Printed Parts
-7.  Electronics - See attached BOM.
+4. 624-2RS Bearings 4x13x5mm X 2: Easily sourced on Amazon and Aliexpress
+5.  T Nuts X 2
+6.  M3 bolts and nuts
+7.  3D Printed Parts
+8.  Electronics - See attached BOM.
 
 # Included files
 1. Gerber
 2. Fusion 360 CAD drawing
-3. Schematics
+3. STL files for 3d printing. No supports needed, but adding some strategic supports in a couple of areas might help for the Main Body. 
+4. Schematics
    
 
 # Firmware: WIP
