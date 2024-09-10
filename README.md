@@ -9,6 +9,9 @@ A low cost automatic 8mm belt driven feeder for OpenPnP and other Pick and Place
 
 ![image](https://github.com/user-attachments/assets/931f6f65-713a-493a-a9bd-851a96859201)
 
+![image](https://github.com/user-attachments/assets/ca5695ff-99b2-4fe7-839f-ba24588e48da)
+
+
 
 # This is a experimental feeder which is still in development. 
 
