@@ -28,6 +28,7 @@ The firmware for this feeder is still under development, and will be posted here
 # Included files
 1. Gerber
 2. Fusion 360 CAD drawing
+3. Schematics
    
 
 # Firmware: WIP
