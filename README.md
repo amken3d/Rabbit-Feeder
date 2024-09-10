@@ -16,7 +16,7 @@ A low cost automatic 8mm belt driven feeder for OpenPnP and other Pick and Place
 The Rabbit feeder is intended to be a ultra low cost semi automatic feeder. The brains of this feeder is a ultra cheap  PY32F002A 32 bit M0 based microcontroller which is easily available for around $0.10. The total BOM cost of this feeder is designed to be around $5. 
 The firmware for this feeder is still under development, and will be posted here when ready. Feel free to build one for yourself and help in writing the firmware.
 
-# Bill Of Materials #TODO : update BOM
+# Bill Of Materials 
 1. N20 Motor - Look for GW1812-N20 DC 12V  on Aliexpress. This is the most expensive part of this feeder. You need a horizontal shaft motor.
 2. GT2 160 mm belt - Source on Aliexpress or Amazon : GT2 Timing Belt Idler Pulley 20 Teeth 5mm Bore 6mm Width
 3. 3x8x4 mm 2RS Bearings X 6 : Easily sourced on Amazon and Aliexpress
@@ -24,6 +24,11 @@ The firmware for this feeder is still under development, and will be posted here
 5.  M3 bolts and nuts
 6.  3D Printed Parts
 7.  Electronics - See attached BOM.
+
+# Included files
+1. Gerber
+2. Fusion 360 CAD drawing
+   
 
 # Firmware: WIP
 The feeder will recieves signals for moving the tape forward or backward using pulses. The exact mechanism and details are TBD. It will be posted here when available.
